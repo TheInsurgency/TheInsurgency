@@ -10,3 +10,4 @@
 
 <h1 align = "left" >Languages in learning (Damn hate java for life)  </h1>
 <img src="https://skillicons.dev/icons?i=java" />
+<p> Im also learning GLSL as i still suck with it, but i could not find an icon for it 😎👌</p>
