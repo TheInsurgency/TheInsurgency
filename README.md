@@ -1,32 +1,6 @@
 <h1 align="center">Hi 👋, I'm The Insurgency</h1>
 <h3 align="center">A LAZY developer from some special country 😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theinsurgency&label=views&color=bc07aa&style=plastic" alt="theinsurgency" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theinsurgency" alt="theinsurgency" /></a> </p>
-
-- 🔭 I’m currently working on **some very small projects**
-
-- 🌱 I’m currently learning **Big problem i have is with Rendering skills, i suck at it.**
-
-- 👯 I’m looking to collaborate on **NOTHING (Atleast rn)**
-
-- 🤝 I’m looking for help with **Nothing for now, but learning is good.**
-
-- 👨‍💻 All of my projects are available at [NOWHERE 🫥](NOWHERE 🫥)
-
-- 📝 I regularly write articles on [Nowhere](Nowhere)
-
-- 💬 Ask me about **Nothing,i don't know anything**
-
-- 📫 How to reach me **imrealmaybe@gmail.com, Thats it**
-
-- 📄 Know about my experiences [Still being worked on](Still being worked on)
-
-- ⚡ Fun fact **I think im funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/not gonna put here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not gonna put here" height="30" width="40" /></a>
 </p>
 
